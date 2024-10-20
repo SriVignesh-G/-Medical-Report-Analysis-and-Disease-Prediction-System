@@ -1,4 +1,4 @@
-# -Medical-Report-Analysis-and-Disease-Prediction-System
+# Medical Report Analysis and Disease Prediction System
 
 ## AIM:
 
